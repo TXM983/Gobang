@@ -3,8 +3,7 @@ import os
 from docx import Document
 import win32com.client as win32
 
-# 设置API密钥
-client = OpenAI()
+
 
 
 # 读取.docx文档内容
