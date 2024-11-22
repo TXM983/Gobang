@@ -4,7 +4,7 @@ from docx import Document
 import win32com.client as win32
 
 # 设置API密钥
-client = OpenAI(api_key='sk-proj-T3OhHqrITTPywZWBn4jZT3BlbkFJljHH509oaHsX8aXluBWr')
+client = OpenAI(api_key='')
 
 
 # 读取.docx文档内容
